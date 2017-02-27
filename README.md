@@ -1,2 +1,2 @@
 # hello-world
-testing
+testing the commit feature
